@@ -5,7 +5,7 @@ Bem vindo ao meu breve estudo sobre a rede YOLO v11!
 
 <br>
 <div align="center">
-  <img src="/imgs/arquitetura-yolo11.png" alt="Arquitetura YOLOv11" height=500px width=650px/>
+  <img src="/imgs/arquitetura-yolo11.png" alt="Arquitetura YOLOv11" height=550 width=900/>
 </div>
 <br>
 
